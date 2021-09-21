@@ -1,0 +1,116 @@
+
+#title{
+    background-color: black;
+    font-size: 1.6rem;
+    font-family:orbitron;
+    
+}
+
+.list{
+    margin-top:2%;
+}
+#home{
+    background-color: black;
+    font-family: orbitron;
+}
+.intro{
+    font-size: 5rem;
+    margin-top: 100px;
+}    
+
+.link-item{
+    color:aliceblue;
+}
+.skills{
+    font-size: 2rem;
+    color:aliceblue;
+    margin-bottom:205px;
+    margin-left:46%;
+}    
+.name{
+    color:rgb(241, 84, 26);
+}
+#about{
+    background-color: black;
+}
+#contact{
+    background-color:rgb(241, 84, 26);
+}
+.contact-a{
+    height: 150px;  
+}
+.about-a{
+    color:rgb(175, 187, 197);
+    width: 55%;
+    font-size: 1.2rem;
+    margin-left: 1.5%;
+    margin-top :2%;
+    margin-bottom: 10%;
+    font-family: orbitron;
+    
+}
+.instagram{
+    width: 25px;
+    height: 25px;
+    margin-top: 50px;
+}
+.icon{
+    color: aliceblue;
+}
+.icon:hover{
+    color:black;
+}
+.position-1{
+    left: 35%;
+}
+.position-2{
+    left: 34%;
+}
+.position-3{
+    left: 33%;
+}
+.position-4{
+    left: 32%;
+}
+
+@media(max-width:380px) {
+
+    #title{
+        background-color: black;
+        font-size: 1rem;
+        font-family:orbitron;
+        
+    }
+    .intro{
+        font-size: 2rem;
+        margin-top: 50px; 
+    }
+    .skills{
+        font-size: .8rem;
+        color:aliceblue;
+        margin-bottom:100px;
+        margin-left:46%;
+    } 
+    .about-a{
+        color:rgb(175, 187, 197);
+        width:auto;
+        font-size: .9rem;
+        margin-top :2%;
+        margin-left: .5%;
+        margin-bottom: 30%;
+        font-family: orbitron;
+        
+    }
+    .position-1{
+        left: 25%;
+    }
+    .position-2{
+        left: 26%;
+    }
+    .position-3{
+        left: 27%;
+    }
+    .position-4{
+        left: 28%;
+    }
+}
